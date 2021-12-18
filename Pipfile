@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyTelegramBotAPI = "==4.2.1"
+Telethon = "==1.24.0"
+psycopg2-binary = "==2.9.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
